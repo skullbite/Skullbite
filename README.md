@@ -1,4 +1,5 @@
 ### I'm skullbite
+#### 17 | Male | US
 Freetime NodeJS and Python writer. Could use things to write so I could practice more.
 
 [![Skullbite's github stats](https://github-readme-stats.vercel.app/api?username=skullbite&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
