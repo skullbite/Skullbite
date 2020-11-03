@@ -2,8 +2,12 @@
 #### 18 | Male | US
 Freetime NodeJS and Python writer. Could use things to write so I could practice more.
 
+[![Discord](https://img.shields.io/discord/433011085369409551?color=%237289DA%20&label=Join%20my%20discord%21&logo=discord&style=flat-square)](https://discord.gg/c4vWDdd) [![Sponsor Message](https://img.shields.io/badge/Sponsor%20me!-%241%20or%20%243%2Fmo-%23ec6cb9?style=flat-square)](https://github.com/sponsors/Skullbite)
+
+
 [![Skullbite's github stats](https://github-readme-stats.vercel.app/api?username=skullbite&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skullbite&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Skullbite/Skullbite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
