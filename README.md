@@ -1,5 +1,5 @@
 ### I'm skullbite
-#### 19 | Male | US
+#### 20 | Male | US
 Freetime NodeJS and Python writer. Could use things to write so I could practice more.
 
 
