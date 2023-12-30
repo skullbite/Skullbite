@@ -1,6 +1,7 @@
 ### I'm skullbite
-#### 20 | Male | US
-Freetime NodeJS and Python writer. Could use things to write so I could practice more.
+#### 21 | Male | US
+
+I write a lot of typescript.
 
 
 
