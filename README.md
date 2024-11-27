@@ -1,9 +1,7 @@
 ### I'm skullbite
-#### 21 | Male | US
+#### 22 | Male | US
 
 I write a lot of typescript.
-
-
 
 [![Skullbite's github stats](https://github-readme-stats.vercel.app/api?username=skullbite&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skullbite&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
